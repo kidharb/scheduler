@@ -1,0 +1,3 @@
+python -m venv scheduler_venv
+./scheduler_venv/bin/pip install -r requirements.txt
+./scheduler_venv/bin/python scheduler.py
